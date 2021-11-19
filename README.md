@@ -1,2 +1,2 @@
 # M1_app_seating-arrangemnt
-arranging seating for available space
+booking the tickets for movie.
