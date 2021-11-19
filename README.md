@@ -1,2 +1,2 @@
 # M1_app_seat-booking
-booking the tickets for movie.
+Booking the tickets for movie.
