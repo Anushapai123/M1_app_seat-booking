@@ -2,6 +2,7 @@
 
 
 # M1_app_seat-booking
+
 Movie Ticket Booking System is an application build for providing the online booking facilities for the movie viewers . As we have seen in the past, to book a movie ticket there is to be long queue near the movie theatre .Hence to make more easier to view a movie by getting a ticket before the show starts .This Project enable to insert the movie,view the movie details,booking the ticket, view all old tranctions.
 
 | Folder | Description |
